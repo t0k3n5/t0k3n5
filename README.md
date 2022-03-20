@@ -1,4 +1,15 @@
-Have I got a special username? 👉👈
+# Why am I the best?
 
-Oh well, guess what? I suck at coding!
-I don't even know how to setup EmailJS, but I'm still learning NodeJS!
+A big rumor is that I'm the best, and all I'm allowed to say is; the rumors *are* true.
+
+<hr>
+
+# What do I work on?
+
+I work using Roblox and NodeJS!
+
+<hr>
+
+# Why would we care?
+
+You shouldn't.
